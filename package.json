@@ -1,6 +1,6 @@
 {
   "name": "launcher-demo",
-  "version": "0.0.0",
+  "version": "2.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -51,7 +51,7 @@
     "url": "https://github.com/corinnekrych/launcher-demo.git"
   },
   "release": {
-    "branch": "master",
+    "branch": "next",
     "verifyConditions": {
       "path": "./verifyConditions.js"
     }
