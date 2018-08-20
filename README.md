@@ -1,6 +1,9 @@
 [![Build Status](https://semaphoreci.com/api/v1/corinnekrych/launcher-demo/branches/master/badge.svg)](https://semaphoreci.com/corinnekrych/launcher-demo)
 # LauncherDemo
 
+
+V2 development
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3 and is used to test lngx-launcher lib.
 
 ## Development server
