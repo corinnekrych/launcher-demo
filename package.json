@@ -51,6 +51,7 @@
     "url": "https://github.com/corinnekrych/launcher-demo.git"
   },
   "release": {
+    "branch": "next",
     "verifyConditions": {
       "path": "./verifyConditions.js"
     }
