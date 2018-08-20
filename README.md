@@ -1,3 +1,4 @@
+[![Build Status](https://semaphoreci.com/api/v1/corinnekrych/launcher-demo/branches/master/badge.svg)](https://semaphoreci.com/corinnekrych/launcher-demo)
 # LauncherDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
