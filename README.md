@@ -2,7 +2,7 @@
 # LauncherDemo
 
 4.0 commit somt breaking chane
-
+BETA tag
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3 and is used to test lngx-launcher lib.
 
