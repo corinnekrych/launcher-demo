@@ -2,7 +2,7 @@
 # LauncherDemo
 
 feature for 3.2
-3.2.2
+3.2.5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3 and is used to test lngx-launcher lib.
 
